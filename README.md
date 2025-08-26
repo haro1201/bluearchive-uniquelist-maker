@@ -1,1 +1,1 @@
-# bluearchive_uniquelist_maker
+# bluearchive-uniquelist-maker
